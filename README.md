@@ -2,7 +2,7 @@
 Estudo de caso sobre a viabilidade de implantação de uma cafeteria na cidade de São José dos Campos
 
 
-# Plano de Negócios & Viabilidade Operacional: Cafeteria em Vila Adyana
+# Plano de Negócios & Viabilidade Operacional: Cafeteria
  
 Estudo de viabilidade económica e operacional para a estruturação de um estabelecimento comercial de 30m² localizado na região central de São José dos Campos/SP.
  
@@ -18,6 +18,7 @@ Mapear a estrutura de custos fixos e variáveis, ativos imobilizados, conformida
 - **Estrutura de Custos & Investimento Inicial:** Ativos fixos, taxas jurídicas/contabilísticas e fundo de maneio.
 - **Conformidade Normativa:** Requisitos sanitários e regulatórios (Anvisa/Vigilância Sanitária).
 - **Custos Operacionais Continuados:** Despesas fixas e variáveis estimadas para funcionamento mensal.
+- **Identidade visual e marca**
  
 ---
  
